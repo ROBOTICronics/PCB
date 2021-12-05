@@ -1,7 +1,7 @@
 **Arduino Nano Expansion Shield**
 <p><img src="../images/arduino-nano-protoshield.png" /></p>
+<p>If you need to interface many devices and sensors to Arduino Nano, then, this project is for you. This is a Nano expansion I/O shield (breakout board) for the Arduino Nano. The board facilitates the easy connection between Arduino Nano and other devices.  Each Arduino (I/O) Pin including the 5V DC and GND pins are available for easy connection to the sensors and other devices. The board enables the easy interface of many devices and sensors which includes various power voltage options. It provides several different options for power outputs and wide range of operating power supply input.</p>
 
-If you need to interface many devices and sensors to Arduino Nano, then, this project is for you. This is a Nano expansion I/O shield (breakout board) for the Arduino Nano. The board facilitates the easy connection between Arduino Nano and other devices.  Each Arduino (I/O) Pin including the 5V DC and GND pins are available for easy connection to the sensors and other devices. The board enables the easy interface of many devices and sensors which includes various power voltage options. It provides several different options for power outputs and wide range of operating power supply input.
 **Features**
 <ul>
 <li>All I/O pins including 5V DC and GND Pins (5V-I/0-GND)</li>
@@ -18,10 +18,14 @@ If you need to interface many devices and sensors to Arduino Nano, then, this pr
 <li>On-Board Reset Switch</li>
 <li>PCB Dimensions 62.55 x 48.90mm</li>
 </ul>
+
 **Schematic**
 <p><img src="../images/Schematic-2.png" /></p>
+
 **B.O.M.**
 <p><img src="../images/BOM-2.jpg" /></p>
+
+**PDF**
 <object data="../images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf" type="application/pdf" width="1024px" height="800px">
     <embed src="../images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ROBOTICronics/PCB/images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf">Download PDF</a>.</p>
