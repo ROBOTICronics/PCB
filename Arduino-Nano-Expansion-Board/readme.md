@@ -26,9 +26,9 @@
 <p><img src="../images/BOM-2.jpg" /></p>
 
 **PDF**
-<object data="../images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf" type="application/pdf" width="1024px" height="800px">
-    <embed src="../images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ROBOTICronics/PCB/images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf">Download PDF</a>.</p>
+<object data="../images/tree/main/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf" type="application/pdf" width="1024px" height="800px">
+    <embed src="../images/tree/main/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ROBOTICronics/PCB/tree/main/images/Expansion-Shield-Breakout-Board-for-Arduino-Nano.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 <p>TOP</p>
