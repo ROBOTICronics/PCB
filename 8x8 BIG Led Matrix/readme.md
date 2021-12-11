@@ -1,1 +1,6 @@
-![8x8 BIG LED Matrix]({{site.baseurl}}../images/8x8_BIG_LED_Matrix-Assembly.png)
+<!--
+![8x8 BIG LED Matrix](https:///../images/8x8_BIG_LED_Matrix-Assembly.png)
+-->
+<p>
+  <img src="https://githuv.com/ROBOTICronics/PCB/images/8x8_BIG_LED_Matrix-Assembly.png" />
+</p>
