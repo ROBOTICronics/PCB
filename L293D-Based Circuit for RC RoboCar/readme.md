@@ -6,6 +6,6 @@ ____
 
 ![L293D based RC ArduVehicle PCB](2022-03-27_130658.png)
 ___
-![L293D based RC ArduVehicle](L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf)
+![L293D based RC ArduVehicle Electrical Schematic](L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.png)
 ![Download Electrical Schematic for the abovementioned PCB](https://github.com/ROBOTICronics/PCB/blob/main/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
 ____
