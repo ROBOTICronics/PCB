@@ -11,8 +11,27 @@ ___
 
 ![Download Electrical Schematic for the abovementioned PCB](https://github.com/ROBOTICronics/PCB/blob/main/files/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
 ____
-## B.O.M. ##
-| Name       | "22pF"  | "100uF 35V 6.3*11_C45076" | "DC_IN" | "CON_HEADER_1X03-PTH" | "G I/O" | "G AI/O" | "CON_HEADER_1X01-PTH" | "Bluetooth Module 6x1 Header" | "VCC 5v" | "Serial programming header" | "VCC2" | "MotorB" | "MotorD" | "MotorA"  | "Reset BT" | "10k" | "BUZZER" | "ATMEGA328P_PDIP" | "L293DNE" | "LM7805" | "16MHz" |
-|------------|---------|---------------------------|---------|-----------------------|---------|----------|-----------------------|-------------------------------|----------|-----------------------------|--------|----------|----------|-----------|------------|-------|----------|-------------------|-----------|----------|---------|
-| Designator | "C1,C2" | "C3"                      | "DC1"   | "J1,J2,SERVO"         | "J3,J4" | "J5"     | "J6,J7"               | "JP1"                         | "JP2"    | "JP3"                       | "JP4"  | "JP5"    | "JP6"    | "JP7,JP8" | "K1"       | "R1"  | "SG1"    | "U1"              | "U2,U3"   | "U4"     | "Y1"    |
-| Quantity   | "2"     | "1"                       | "1"     | "3"                   | "2"     | "1"      | "2"                   | "1"                           | "1"      | "1"                         | "1"    | "1"      | "1"      | "2"       | "1"        | "1"   | "1"      | "1"               | "2"       | "1"      | "1"     |
+## ** B.O.M. ** ##
+| Name                          | Designator    | Quantity |
+|-------------------------------|---------------|----------|
+| "22pF"                        | "C1,C2"       | "2"      |
+| "100uF 35V 6.3*11_C45076"     | "C3"          | "1"      |
+| "DC_IN"                       | "DC1"         | "1"      |
+| "CON_HEADER_1X03-PTH"         | "J1,J2,SERVO" | "3"      |
+| "G I/O"                       | "J3,J4"       | "2"      |
+| "G AI/O"                      | "J5"          | "1"      |
+| "CON_HEADER_1X01-PTH"         | "J6,J7"       | "2"      |
+| "Bluetooth Module 6x1 Header" | "JP1"         | "1"      |
+| "VCC 5v"                      | "JP2"         | "1"      |
+| "Serial programming header"   | "JP3"         | "1"      |
+| "VCC2"                        | "JP4"         | "1"      |
+| "MotorB"                      | "JP5"         | "1"      |
+| "MotorD"                      | "JP6"         | "1"      |
+| "MotorA"                      | "JP7,JP8"     | "2"      |
+| "Reset BT"                    | "K1"          | "1"      |
+| "10k"                         | "R1"          | "1"      |
+| "BUZZER"                      | "SG1"         | "1"      |
+| "ATMEGA328P_PDIP"             | "U1"          | "1"      |
+| "L293DNE"                     | "U2,U3"       | "2"      |
+| "LM7805"                      | "U4"          | "1"      |
+| "16MHz"                       | "Y1"          | "1"      |
