@@ -11,7 +11,7 @@ ___
 
 ![Download Electrical Schematic for the abovementioned PCB](https://github.com/ROBOTICronics/PCB/blob/main/files/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
 ____
-## ** B.O.M. ** ##
+## B.O.M. ##
 | Name                          | Designator    | Quantity |
 |-------------------------------|---------------|----------|
 | "22pF"                        | "C1,C2"       | "2"      |
