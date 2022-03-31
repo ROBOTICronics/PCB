@@ -9,9 +9,9 @@ ___
 ![L293D based RC ArduVehicle Electrical Schematic](files/L293Dbased%20Circuit%20for%20RC%20Vehicle%20MyselfBIS_2022-03-31.png)
 
 
-![Download Electrical Schematic for the abovementioned PCB](https://github.com/ROBOTICronics/PCB/blob/main/files/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
+![Download Electrical Schematic for the abovementioned PCB](files/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
 
-![Download Electrical Schematic as Altium Designer](https://github.com/ROBOTICronics/PCB/blob/main/files/L293DbaseArduVehicle-ElectricalSchematic_2022-03-31.schdoc)
+![Download Electrical Schematic as Altium Designer](files/L293DbaseArduVehicle-ElectricalSchematic_2022-03-31.schdoc)
 ____
 
 ## B.O.M. ##
