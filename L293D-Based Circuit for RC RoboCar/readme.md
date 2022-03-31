@@ -10,7 +10,10 @@ ___
 
 
 ![Download Electrical Schematic for the abovementioned PCB](https://github.com/ROBOTICronics/PCB/blob/main/files/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
+
+![Download Electrical Schematic as Altium Designer](https://github.com/ROBOTICronics/PCB/blob/main/files/L293DbaseArduVehicle-ElectricalSchematic_2022-03-31.schdoc)
 ____
+
 ## B.O.M. ##
 | Name                          | Designator    | Quantity |
 |-------------------------------|---------------|----------|
