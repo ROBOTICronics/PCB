@@ -1,8 +1,6 @@
 ____
 ![Download GERBER for the hereinafter PCB](files/Gerber_Motor_Driver_Shield-4arduinoUNO.zip?raw=true)
 
-![DIY Motor Shield 4 UNO PCB](files/2022-03-27_130658.png)
-
 ![DIY Motor Shield 4 UNO TopSilk](files/TOPsilk.png)
 
 ____
