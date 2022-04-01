@@ -6,7 +6,6 @@ ____
 ___
 ![L293D based RC Pro Mini Schematic](files/2022-04-01_212701.png)
 
-
 ![Download Electrical Schematic for the abovementioned PCB](files/2022-04-01_212701.png?raw=true)
 
 ____
