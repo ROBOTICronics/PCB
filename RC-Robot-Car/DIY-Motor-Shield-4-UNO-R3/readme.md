@@ -1,40 +1,43 @@
+____
+![Download GERBER for the hereinafter PCB](files/Gerber_Motor_Driver_Shield-4arduinoUNO.zip?raw=true)
 
-Four holes (drilled on rectangle 89.0 x 62.0 mm) configure external PCB board dimensions at 100.0 x 75.0 mm
+![DIY Motor Shield 4 UNO PCB](files/2022-03-27_130658.png)
+
+![DIY Motor Shield 4 UNO TopSilk](files/TOPsilk.png)
 
 ____
-![Download GERBER for the hereinafter PCB](https://github.com/ROBOTICronics/PCB/blob/main/L293D-Based%20Circuit%20for%20RC%20RoboCar/files/L293DbasedRC_ArduVehicle%20MyselfBIS_2_2022-03-27GERBER.zip?raw=true)
 
-![L293D based RC ArduVehicle PCB](files/2022-03-27_130658.png)
+![DIY Motor Shield 4 UNO interface](files/diy-motor-drive-shield-ArduinoUNO.png)
 ___
-![L293D based RC ArduVehicle Electrical Schematic](files/L293Dbased%20Circuit%20for%20RC%20Vehicle%20MyselfBIS_2022-03-31.png)
+![L293D based RC ArduVehicle Electrical Schematic](files/diy-motor-drive-shield.png)
 
 
-![Download Electrical Schematic for the abovementioned PCB](files/L293DbasedRC_ArduVehicleMyselfBIS_2022-03-31.pdf?raw=true)
+![Download Electrical Schematic for the abovementioned PCB](files/diy-motor-drive-shield.png?raw=true)
 
-![Download Electrical Schematic as Altium Designer](files/L293DbaseArduVehicle-ElectricalSchematic_2022-03-31.schdoc)
 ____
 
 ## B.O.M. ##
-| Name                          | Designator    | Quantity |
-|-------------------------------|---------------|----------|
-| "22pF"                        | "C1,C2"       | "2"      |
-| "100uF 35V 6.3*11_C45076"     | "C3"          | "1"      |
-| "DC_IN"                       | "DC1"         | "1"      |
-| "CON_HEADER_1X03-PTH"         | "J1,J2,SERVO" | "3"      |
-| "G I/O"                       | "J3,J4"       | "2"      |
-| "G AI/O"                      | "J5"          | "1"      |
-| "CON_HEADER_1X01-PTH"         | "J6,J7"       | "2"      |
-| "Bluetooth Module 6x1 Header" | "JP1"         | "1"      |
-| "VCC 5v"                      | "JP2"         | "1"      |
-| "Serial programming header"   | "JP3"         | "1"      |
-| "VCC2"                        | "JP4"         | "1"      |
-| "MotorB"                      | "JP5"         | "1"      |
-| "MotorD"                      | "JP6"         | "1"      |
-| "MotorA"                      | "JP7,JP8"     | "2"      |
-| "Reset BT"                    | "K1"          | "1"      |
-| "10k"                         | "R1"          | "1"      |
-| "BUZZER"                      | "SG1"         | "1"      |
-| "ATMEGA328P_PDIP"             | "U1"          | "1"      |
-| "L293DNE"                     | "U2,U3"       | "2"      |
-| "LM7805"                      | "U4"          | "1"      |
-| "16MHz"                       | "Y1"          | "1"      |
+| Name                     | Designator     | Footprint         | Quantity |
+|--------------------------|----------------|-------------------|----------|
+| ARDUINO                  | U1             | ARDUINO           | 1        |
+| L293D                    | U2,U3          | DIP16             | 2        |
+| +5v                      | J11            | M1X4              | 1        |
+| GND                      | J12            | M1X4              | 1        |
+| Power                    | J13,J10        | M1X3              | 2        |
+| 100nF                    | C3,C4,C1,C2,C6 | RAD-0.2           | 5        |
+| Power                    | J3             | H3-5.0-15.5X8.0MM | 1        |
+| M1                       | J1             | H2-5.0-10.5X8.0MM | 1        |
+| M2                       | J2             | H2-5.0-10.5X8.0MM | 1        |
+| Vcc                      | J4,J8          | M1X2              | 2        |
+| pw1                      | J9             | H2-5.0-10.5X8.0MM | 1        |
+| M3                       | J5             | H2-5.0-10.5X8.0MM | 1        |
+| M4                       | J6             | H2-5.0-10.5X8.0MM | 1        |
+| pw2                      | J7             | H2-5.0-10.5X8.0MM | 1        |
+| 74HC595                  | U5             | DIP16             | 1        |
+| 10uF                     | C5             | CAP-D4.0XF1.5     | 1        |
+| Header-Male-2.54_1x6     | P1,P3,P4       | HDR-6X1/2.54      | 3        |
+| 10K_Network08            | RN1            | R_ARRAY_SIP9      | 1        |
+| Female headerHDR1X8-2.54 | P2             | HDR-8X1/2.54      | 1        |
+| Reset                    | U4             | SWITCH-6X6X5_TH   | 1        |
+| led Green                | LED1           | LED-1206          | 1        |
+| _                        | R1             | 1206              | 1        |
