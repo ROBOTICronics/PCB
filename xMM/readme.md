@@ -4,4 +4,4 @@ Development Boards for playfulness (PCB view)
   - ![1st Board](./firstBoard.png)
 2.  StandardPCB
   - ** w/ ATMEGA328P
-  -  - ![2nd Board](./secondBoard.png)
+  -  - ![2nd Board](./wATMEGA328P.png)
