@@ -5,4 +5,4 @@
 ## 2.  StandardPCB
   - **w/ ATMEGA328P**
   - ![2nd Board](./wATMEGA328P.png)
-  - [PCB board](./wATMEGA328P.zip "download")
+  - [PCB board]({{./wATMEGA328P.zip}})
