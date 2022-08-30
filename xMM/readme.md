@@ -7,3 +7,7 @@
   - **w/ ATMEGA328P**
   - ![2nd Board](./wATMEGA328P.png)
   - [PCB board](https://github.com/ROBOTICronics/PCB/tree/main/xMM/wATMEGA328P.zip "download wATMEGA328P PCB")
+## 3. Panel PowerSupply
+  - ** **
+  - ![3rd Board](./panelpowersupply.png)
+  - [PCB board](https://github.com/ROBOTICronics/PCB/tree/main/xMM/panel-power-supply.zip "download Panel Power Supply PCB")
